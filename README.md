@@ -1,7 +1,4 @@
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ "my muppet friend..."
-
 <div align="center">
 
-<img width="500" alt="my muppet friend.." src="https://github.com/user-attachments/assets/cda380d5-434f-46ca-a24e-b482a7b52e51" />
 
-(hvy wip)
+<img width="500" alt="my muppet friend.." src="https://github.com/user-attachments/assets/ef26e8fa-93c7-467a-aefd-055a75c242b4" />
