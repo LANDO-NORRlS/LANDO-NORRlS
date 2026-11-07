@@ -1,4 +1,5 @@
 <div align="center">
 
 
-<img width="500" alt="my muppet friend.." src="https://github.com/user-attachments/assets/dff6e35a-9252-4107-971f-185a6869bd27" />
+<img width="500" alt="my muppet friend.." src="https://github.com/user-attachments/assets/22c54eb6-5ebe-48e4-932e-8debd64b8bd4" />
+" what can i do ... but think of youuu !!!!! "
